@@ -21,7 +21,7 @@
             android:tintMode="@color/white"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-            app:srcCompat="@drawable/baseline_note_add_24" />
+            app:srcCompat="@drawable/baseline_note_add_241" />
 
         <androidx.recyclerview.widget.RecyclerView
             android:id="@+id/homeRecyclerView"
