@@ -1,0 +1,1 @@
+Developed a Kotlin-based note-taking app using Room for data storage, MVVM for architecture, and LiveData for dynamic UI updates. Handled database migrations efficiently, showcasing proficiency in Android app development and data management.
